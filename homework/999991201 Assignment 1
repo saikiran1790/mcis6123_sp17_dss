@@ -1,0 +1,71 @@
+§ Question 1.1: Review the source data for the visualization.
+•	Is this data structured or unstructured data? Please justify your answer
+Answer: The data is structured because the information is with a high degree of organization.
+If you look at the visualization the data is divided into State, by industry and also by rankings.
+If you look at the Source data it is also clearly divided into a table where in anyone can understand just by reading at it.
+So this clearly indicates it is a Structured data.
+§ Question 1.2: Take the top 20 companies in the data sorted by descending growth rate.
+•	Which industries are the fastest growing in 2013 (just the top 3)?
+Answer : Below are the fastest growing in 2013.
+1.	Consumer products & services
+2.	Government services
+3.	Health
+§ Question 1.3: Take the top 30 companies in the data by sorted by descending growth rate.
+•	Which state has the highest total count of the fastest growing companies in 2013?
+Answer: Texas with 6 companies
+•	What is the average growth rate of those companies in that state?
+Answer:12444.3 % 
+•	What is the total revenue of those companies in that state?
+Answer: $ 2,069,300,000 (or) two billion, sixty-nine million, three hundred thousand dollars.
+§ Question 1.4: Using your answers from Question 3,
+•	What industries are represented by those companies?
+Answer:
+1.	Energy 
+2.	Real Estate
+3.	Health
+4.	Financial services
+5.	IT services
+6.	Business products & services
+§ Question 1.5:
+An investor wants to place some capital into the fastest growing companies with revenues between $50m-100m.
+•	Which would you recommend?
+Answer – a:
+1.	Dataxu
+2.	Wingspan portfolio advisors
+3.	Kony
+4.	Provider power
+5.	Equinox Business solutions
+6.	Alex and ani
+7.	VRx
+8.	Centerplan construction
+9.	I.T.source
+10.	Cloud Sherpas
+Assume that the growth rates for these companies on your recommendation list continue.
+•	If the investor has $10m to invest and asks you to recommend how she allocate that $10m, what amount would you recommend she put on your list of top fastest growing companies with revenues between $50m-100m? (Your answer will look something like: $5m: company X, $2m: company Y, $1: company G, company U, company T, $0: company W.)
+Answer – b: Investment idea
+Dataxu – $ 4 million
+Wingspan Portfolio advisors - $ 3 million
+Kony -  $ 2 million
+Provider power - $ 1 million
+Note : It would have been helpful if the questions states on how many companies we need to invest.
+§ Question 2.1: 
+What percent change was there in the number of returns from 2011 to 2013?
+Answer:  [(26480680 - 23664786)/23664786]*100  = 11.8990 percent change
+§ Question 2.2: 
+In expanding economic times, there is more economic activity and hence more consumption of taxable goods (or so the theory goes).
+Looking at the graph from the data above, which would you say (without looking at other sources) would be times of economic expansion? Give you answer in ranges of years (e.g. 1991-1996).
+Answer:  2003 - 2007 and 2009 - 2013	
+§ Question 3.1:
+The company Goal Zero was operating out of Bluffdale, UT in 2013, which is a suburb of Salt Lake City, UT. Assume the questions here are relevant for 2013 and not 2017 as conditions may have changed.If the company wants to attract talented employees to move to Utah and join their country, what would be a starting salary that might be in keeping with the median income of Bluffdale? HINT: You can use the US Census Bureau Data for 2011-2015.
+Answer: Starting salary would be $53,889
+§ Question 3.2:
+What would you recommend as a starting salary offer to a new employee for pre-tax income if you want to attract employees to purchase a home in the area? HINT: explore the median monthly household owner costs with mortgage in the Census (household) data and assume your pre-tax salary offer is 5 times the monthly median household costs. Assume also that job experience, etc. do not factor into the hypothetical salary you recommend.
+Answer: $ 7460/ month or $ 89520/year
+§ Question 4.1:
+You are to build a predictive engine into the dashboard. What other data do you need to consider if the dashboard is intended to help the company project company-wide salary growth for the next 3 years, while also remaining competitive and attractive to its employees.
+Answer: 
+We can consider the below factors also to get a good projection on how we are heading to..
+1.Resignation rates by area
+2.Appraisal rating-to-salary ratio
+3.Gender mix
+4.Cost of hire - i.e., recruiter fees , Advertisement fees for hiring
